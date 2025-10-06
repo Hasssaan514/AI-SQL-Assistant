@@ -1,9 +1,10 @@
 fastapi==0.95.2
 uvicorn[standard]==0.22.0
-openai==1.0.0
+google-generativeai
 sqlalchemy==2.0.20
-pandas==2.2.3
+pandas==2.0.0
 sqlparse==0.5.4
 python-dotenv==1.0.0
 streamlit==1.24.1
 httpx==0.24.0
+pydantic==1.10.8
